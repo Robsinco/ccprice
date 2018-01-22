@@ -10,7 +10,7 @@ describe("Testing HTTP Get Request To https://blockchain.info/ticker", () => {
     })
 
     it("should return an object", done => {
-        assert.typeOf(requests.list(urls.btc_convert('usd', 500)));
+        assert.typeOf(requests.list(urls.btc_convert('usd', 500)), 'object');
         done();
     })
 })
