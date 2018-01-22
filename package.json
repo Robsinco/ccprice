@@ -1,6 +1,6 @@
 {
   "name": "ccprice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A microservice used in Robsin-co. The purpose of this microservice is to fetch the prices of Digital Currencies.",
   "main": "index.js",
   "scripts": {
