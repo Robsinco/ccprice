@@ -1,6 +1,6 @@
 {
   "name": "ccprice",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A microservice used in Robsin-co. The purpose of this microservice is to fetch the prices of Digital Currencies.",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,19 @@
     "mocha": "^5.0.0",
     "request": "^2.83.0",
     "terminal-kit": "^1.14.3"
+  },
+  "keywords": [
+    "blockchain",
+    "bitcoin",
+    "cryptocurrency",
+    "digital currency",
+    "ether",
+    "etherium",
+    "cryptocurrency exchange",
+    "cryptocurrency price api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robsinco/ccprice.git"
   }
 }
