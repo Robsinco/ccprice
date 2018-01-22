@@ -12,7 +12,7 @@ ccprice.cmcListAll(limit, start, convert);
 // limit is an integer, limiting the number of results.
 // start is the starting point for counting down cryptocurrencies. cryptocurrencies are ranked // from 'start' to 'start - limit'.
 // convert is a string, the currency you want to convert to. example: USD, EUR, etc.  
-```
+
 ```
 
 2. Example: Retrieving the price of Bitcoin. cmc gives you data about all of the in use cryptocurrencies, but with these specific functions, you can get data about the cryptocurrency you want and you can be sure that the retrieved price is up to date.
@@ -23,5 +23,5 @@ const ccprice = require('ccprice');
 
 ccprice.btcList();
 // returns up to date value of BTC in USD.
-```
+
 ```
