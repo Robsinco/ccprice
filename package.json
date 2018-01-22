@@ -1,0 +1,18 @@
+{
+  "name": "ccprice",
+  "version": "0.1.0",
+  "description": "A microservice used in Robsin-co. The purpose of this microservice is to fetch the prices of Digital Currencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon index"
+  },
+  "author": "amirali ameri amiraliamhh@gmail.com (http://Robsin-co.ir)",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "request": "^2.83.0",
+    "terminal-kit": "^1.14.3"
+  }
+}
