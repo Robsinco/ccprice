@@ -1,7 +1,7 @@
-#CCPrice (CryptoCurrency Price):
-CCPrice is a Nodejs Module for retrieving cryptocurrencies prices.
+<h1>CCPrice (CryptoCurrency Price):</h1>
+<h3>CCPrice is a Nodejs Module for retrieving cryptocurrencies prices.</h3>
 
-#Docs
+<h1>Docs</h1>
 1. Example: Retrieving prices of top 100 most valueable cryptocurrencies using CoinMarketCap API:
 ```
 const ccprice = require('ccprice');
